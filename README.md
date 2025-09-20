@@ -1,4 +1,4 @@
-# David Lucas de Almeida Sousa
+# David Sousa
 
 Fullstack Developer | Backend & Mobile  
 
