@@ -6,6 +6,7 @@ Fullstack Developer | Backend & Mobile
 📞 (79) 99134-2106  
 ✉️ davidlsousa.dev@gmail.com  
 ✉️ davidlsousa.dev@outlook.com
+
 [LinkedIn](https://www.linkedin.com/in/davidlsousadev/) | [GitHub Pessoal](https://github.com/DavidLSousa) | [Portfolio](https://davidlsousa-portfolio.netlify.app/)
 
 ---
